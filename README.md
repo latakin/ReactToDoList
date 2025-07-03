@@ -1,12 +1,28 @@
-# React + Vite
+# 📝 React To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and simple to-do list app built with **React 19** and **Vite** — designed to help you stay organized and productive.
 
-Currently, two official plugins are available:
+![screenshot](https://user-images.githubusercontent.com/your-image.png) <!-- Optional: add a screenshot of your app here -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+Check it out live:  
+👉 [https://latakin.github.io/ReactToDolist/](https://latakin.github.io/ReactToDolist/)
 
-## Expanding the ESLint configuration
+## 🔧 Features
+- Add and delete tasks with ease
+- Visually clean and minimalist UI
+- Built with blazing-fast ⚡ Vite
+- Responsive design for mobile and desktop
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+- [React 19](https://reactjs.org/)
+- [Vite 7](https://vitejs.dev/)
+- [gh-pages](https://www.npmjs.com/package/gh-pages)
+
+## 📦 Installation & Setup
+
+```bash
+git clone https://github.com/latakin/ReactToDolist.git
+cd ReactToDolist
+npm install
+npm run dev
